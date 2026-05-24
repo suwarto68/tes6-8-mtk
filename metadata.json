@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Sumatif Matematika SMPN 1 Wanaraya",
+  "description": "Aplikasi ujian Sumatif Akhir Semester (SAS) Matematika SMPN 1 Wanaraya bermodel ANBK dengan integrasi Spreadsheet dan Sertifikat Hasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
